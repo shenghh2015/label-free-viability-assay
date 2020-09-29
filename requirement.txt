@@ -1,0 +1,4 @@
+tensorflow-gpu>=1.13.0
+scikit-image
+scikit-learn
+keras_applications>=1.0.7

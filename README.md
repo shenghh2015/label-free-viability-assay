@@ -8,4 +8,5 @@ pip install -r requirement.txt
 
 # Model download
 HeLa model (EfficientNet-B3):
+
 CHO model (EfficientNet-B7):

@@ -2,11 +2,13 @@
 
 The trained E-U-Net models for the HeLa and CHO cell images, respectively.
 
-# Installation
+# Step 1: Installation
 
 pip install -r requirement.txt
 
-# Model download
-HeLa model (EfficientNet-B3):
+# Step 2: Model download
+HeLa model (EfficientNet-B3): already in the trained_models folder
 
-CHO model (EfficientNet-B7):
+CHO model (EfficientNet-B7): need to download and put it into trained_models folder
+
+# Step 3: 

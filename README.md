@@ -13,4 +13,5 @@ CHO model (EfficientNet-B7): need to download and put it into trained_models fol
 
 # Step 3: 
 Usage of HeLa model: inspect_HeLa_model.ipynb
+
 Usage of CHO model: inspect_CHO_model.ipynb
